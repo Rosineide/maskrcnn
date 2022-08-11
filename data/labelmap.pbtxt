@@ -1,24 +1,10 @@
 item {
-  id: 1
-  name: 'headlamp'
+    name: "Idio",
+    id: 1,
+    display_name: "Idio"
 }
-
 item {
-  id: 2
-  name: 'rear_bumper'
-}
-
-item {
-  id: 3
-  name: 'door'
-}
-
-item {
-  id: 4
-  name: 'hood'
-}
-
-item {
-  id: 5
-  name: 'front_bumper'
+    name: "Sub",
+    id: 2,
+    display_name: "Sub"
 }
