@@ -3,3 +3,8 @@ item {
     id: 1,
     display_name: "Classes"
 }
+item {
+    name: "Poro",
+    id: 2,
+    display_name: "Poro"
+}
