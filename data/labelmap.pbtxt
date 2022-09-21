@@ -1,10 +1,15 @@
 item {
-    name: "Classes",
+    name: "Idiomorfica-Alongada",
     id: 1,
-    display_name: "Classes"
+    display_name: "Idiomorfica-Alongada"
 }
 item {
-    name: "Poro",
+    name: "Idiomorfica-Equidimensional",
     id: 2,
-    display_name: "Poro"
+    display_name: "Idiomorfica-Equidimensional"
+}
+item {
+    name: "Subdiomorfica",
+    id: 3,
+    display_name: "Subdiomorfica"
 }
