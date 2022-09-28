@@ -1,15 +1,15 @@
 item {
-    name: "Idiomorfica-Alongada",
+    name: "Idiomorfica",
     id: 1,
-    display_name: "Idiomorfica-Alongada"
-}
-item {
-    name: "Idiomorfica-Equidimensional",
-    id: 2,
-    display_name: "Idiomorfica-Equidimensional"
+    display_name: "Idiomorfica"
 }
 item {
     name: "Subdiomorfica",
-    id: 3,
+    id: 2,
     display_name: "Subdiomorfica"
+}
+item {
+    name: "Xenomorfica",
+    id: 3,
+    display_name: "Xenomorfica"
 }
